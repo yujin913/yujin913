@@ -1,4 +1,11 @@
-## Hi there 👋
+📚 Tech Stack 📚
+📝 Platforms & Languages 📝
+- **Backend:** Python (FastAPI, Django), Java (Spring Boot)
+- **Database:** MySQL, PostgreSQL
+- **DevOps:** Docker, Kubernetes, AWS (EC2, S3, Lambda)
+- **Frontend:** Next.js, React, TypeScript
+
+🛠 Tools 🛠
 
 <!--
 **yujin913/yujin913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
