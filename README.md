@@ -6,6 +6,7 @@
 - **Frontend:** Next.js, React, TypeScript
 <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-3776AB?style=flat&logo=java&logoColor=white)
 🛠 Tools 🛠
 
 <!--
