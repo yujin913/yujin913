@@ -5,7 +5,7 @@
 - **DevOps:** Docker, Kubernetes, AWS (EC2, S3, Lambda)
 - **Frontend:** Next.js, React, TypeScript
 <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Java](![image](https://github.com/user-attachments/assets/6fb1e0a3-3aa2-4eae-b978-63016b1f2bdf/Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 🛠 Tools 🛠
 
